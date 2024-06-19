@@ -1,5 +1,5 @@
 name: ci
-
+# debug attempt
 env:
   CONFIG_REPO_NAME: argocd-course-webapp-config
   
